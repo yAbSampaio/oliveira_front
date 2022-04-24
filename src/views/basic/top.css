@@ -1,0 +1,95 @@
+.myButton {
+  box-shadow: inset 0px -3px 0px 0px #f9eca0;
+  background: linear-gradient(to bottom, #f0c911 5%, #f2ab1e 100%);
+  background-color: #f0c911;
+  border-radius: 6px;
+  border: 1px solid #e65f44;
+  display: inline-block;
+  cursor: pointer;
+  color: black;
+  font-family: Verdana;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 1%;
+  width: 20%;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #ded17c;
+  margin-left: 3%;
+  margin-top: 2%;
+  text-align: center;
+}
+.myButton:hover {
+  background: linear-gradient(to bottom, #f2ab1e 5%, #f0c911 100%);
+  background-color: #f2ab1e;
+}
+.myButton:active {
+  position: relative;
+  top: 1px;
+}
+
+#tables {
+  display: flex;
+}
+td{
+  font-size: 100%;
+  color: black;
+}
+#tables table {
+  color: black;
+  font-family: Helvetica;
+  margin-left: auto;
+  font-size: 200%;
+  width: 50%;
+}
+#tables table tr td {
+  text-align: center;
+}
+h1 {
+  font-size: 200%;
+  color: black;
+  text-align: center;
+  font-family: Helvetica;
+}
+#divBut {
+  margin-top: 2%;
+  display: inline-flex;
+  position: relative;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+
+  border-color: black;
+  border-style: solid;
+  border-width: medium;
+  border-right: none;
+  border-left: none;
+  border-bottom: none;
+}
+#title {
+  text-align: center;
+}
+h2 {
+  font-size: 300%;
+  color: black;
+  font-family: Helvetica;
+}
+
+.container-fluid {
+  height: 100%;
+}
+.fade.show {
+  height: 100%;
+  
+}
+.c-sidebar{
+  background-color: rgb(26, 25, 25);
+}
+body{
+  background-color: white;
+}
+.c-wrapper{
+  background-color: white;
+}
+#label{
+  font-size: 150%;
+}

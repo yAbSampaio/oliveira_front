@@ -1,0 +1,28 @@
+#tamanho {
+  font-size: 150%;
+}
+#outros {
+  font-size: 125%;
+}
+#title {
+  text-align: center;
+}
+h2 {
+  font-size: 300%;
+  color: black;
+  font-family: Helvetica;
+}
+#head {
+  border-color: black;
+  border-style: solid;
+  border-width: medium;
+  border-right: none;
+  border-left: none;
+  border-top: none;
+}
+
+thead {
+  display: table-header-group;
+  vertical-align: middle;
+  border-color: inherit;
+}

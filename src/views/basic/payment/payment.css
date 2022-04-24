@@ -1,0 +1,14 @@
+#tablesPay {
+  font-size: 150%;
+  color: black;
+  font-family: Helvetica;
+  width: 50%;
+  margin-left: 25%;
+}
+#inp {
+  /* font-size: 150%; */
+  width: 99%;
+  height: 30px;
+  border: 0;
+}
+  
