@@ -1,5 +1,5 @@
 import axios from "axios";
-export const API_URL = "http://ec2-34-200-220-14.compute-1.amazonaws.com:3333";
+export const API_URL = "https://mk4j8bdo2a.execute-api.us-east-1.amazonaws.com";
 //
 export const routeRegister = (data, token) => {
   const config = {
